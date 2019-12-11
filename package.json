@@ -2,7 +2,7 @@
   "name": "color_boxes",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://pchandler858.github.io/color_boxes/"
+  "homepage" : "https://pchandler858.github.io/color_boxes/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
